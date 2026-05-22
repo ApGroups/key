@@ -1,0 +1,15 @@
+{
+  "short_name": "Zeus",
+  "name": "Zeus Wallet Retrieve",
+  "icons": [
+    {
+      "src": "/drainer-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
